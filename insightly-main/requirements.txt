@@ -1,0 +1,7 @@
+streamlit
+numpy
+cohere
+streamlit_extras
+streamlit_autorefresh
+extra-streamlit-components
+streamlit-lottie
